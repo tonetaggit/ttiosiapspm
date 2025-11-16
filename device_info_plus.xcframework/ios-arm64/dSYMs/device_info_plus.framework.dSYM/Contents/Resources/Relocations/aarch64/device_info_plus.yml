@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/madhan/Projects/IAP/icpsdkinapppayment/build/flutter_sdk/Release/iphoneos/Release-iphoneos/device_info_plus/device_info_plus.framework/device_info_plus'
+relocations:
+  - { offset: 0x3D6C, size: 0x8, addend: 0x0, symName: _device_info_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x5CF8, symSize: 0x0 }
+  - { offset: 0x3DA0, size: 0x8, addend: 0x0, symName: _device_info_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x5D28, symSize: 0x0 }
+  - { offset: 0x3DDC, size: 0x8, addend: 0x0, symName: '+[DeviceIdentifiers userKnownDeviceModel:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE18 }
+  - { offset: 0x3DE9, size: 0x8, addend: 0x0, symName: '+[DeviceIdentifiers userKnownDeviceModel:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE18 }
+  - { offset: 0x3E8D, size: 0x8, addend: 0x0, symName: '+[FPPDeviceInfoPlusPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4E18, symSize: 0xA0 }
+  - { offset: 0x3FCC, size: 0x8, addend: 0x0, symName: '+[FPPDeviceInfoPlusPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4E18, symSize: 0xA0 }
+  - { offset: 0x4025, size: 0x8, addend: 0x0, symName: '-[FPPDeviceInfoPlusPlugin handleMethodCall:result:]', symObjAddr: 0xA0, symBinAddr: 0x4EB8, symSize: 0x6CC }
+  - { offset: 0x41FF, size: 0x8, addend: 0x0, symName: '-[FPPDeviceInfoPlusPlugin availableMemoryInbMB]', symObjAddr: 0x76C, symBinAddr: 0x5584, symSize: 0x64 }
+  - { offset: 0x437C, size: 0x8, addend: 0x0, symName: '-[FPPDeviceInfoPlusPlugin isDevicePhysical]', symObjAddr: 0x7D0, symBinAddr: 0x55E8, symSize: 0x8 }
+...

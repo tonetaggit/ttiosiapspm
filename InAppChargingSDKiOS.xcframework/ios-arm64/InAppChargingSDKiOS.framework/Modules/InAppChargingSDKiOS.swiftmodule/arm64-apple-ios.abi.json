@@ -1,0 +1,1870 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "InAppChargingSDKiOS",
+    "printedName": "InAppChargingSDKiOS",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration.CaptiveNetwork",
+        "printedName": "SystemConfiguration.CaptiveNetwork",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TTDeviceIDManager",
+        "printedName": "TTDeviceIDManager",
+        "declKind": "Class",
+        "usr": "s:19InAppChargingSDKiOS17TTDeviceIDManagerC",
+        "mangledName": "$s19InAppChargingSDKiOS17TTDeviceIDManagerC",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "Final",
+          "UsableFromInline"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMaps",
+        "printedName": "GoogleMaps",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IACFlowRequest",
+        "printedName": "IACFlowRequest",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "userLocation",
+            "printedName": "userLocation",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tuple",
+                "printedName": "(latitude: Swift.Double, longitude: Swift.Double)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Double",
+                    "printedName": "Swift.Double",
+                    "usr": "s:Sd"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvp",
+            "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvp",
+            "moduleName": "InAppChargingSDKiOS",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(latitude: Swift.Double, longitude: Swift.Double)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Double",
+                        "printedName": "Swift.Double",
+                        "usr": "s:Sd"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Double",
+                        "printedName": "Swift.Double",
+                        "usr": "s:Sd"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvg",
+                "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvg",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(latitude: Swift.Double, longitude: Swift.Double)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Double",
+                        "printedName": "Swift.Double",
+                        "usr": "s:Sd"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Double",
+                        "printedName": "Swift.Double",
+                        "usr": "s:Sd"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvs",
+                "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvs",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvM",
+                "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV12userLocationSd8latitude_Sd9longitudetvM",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "oneSignalID",
+            "printedName": "oneSignalID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvp",
+            "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvp",
+            "moduleName": "InAppChargingSDKiOS",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvg",
+                "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvg",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvs",
+                "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvs",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvM",
+                "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV11oneSignalIDSSSgvM",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(sdkMode:phoneNumber:userName:vehicleRegNumber:vehicleID:vehicleType:carProductLineName:carModelName:userLocation:oneSignalID:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IACFlowRequest",
+                "printedName": "InAppChargingSDKiOS.IACFlowRequest",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IACSDKMode",
+                "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IACVehicleType",
+                "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(latitude: Swift.Double, longitude: Swift.Double)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(latitude: Swift.Double, longitude: Swift.Double)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Double",
+                        "printedName": "Swift.Double",
+                        "usr": "s:Sd"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Double",
+                        "printedName": "Swift.Double",
+                        "usr": "s:Sd"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV7sdkMode11phoneNumber8userName010vehicleRegK00N2ID0N4Type014carProductLineM00r5ModelM00L8Location09oneSignalP0AcA10IACSDKModeO_S2SSgS2SAA010IACVehicleQ0OSSAPSd8latitude_Sd9longitudetSgAPtcfc",
+            "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV7sdkMode11phoneNumber8userName010vehicleRegK00N2ID0N4Type014carProductLineM00r5ModelM00L8Location09oneSignalP0AcA10IACSDKModeO_S2SSgS2SAA010IACVehicleQ0OSSAPSd8latitude_Sd9longitudetSgAPtcfc",
+            "moduleName": "InAppChargingSDKiOS",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV",
+        "mangledName": "$s19InAppChargingSDKiOS14IACFlowRequestV",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IACFlowRequestError",
+        "printedName": "IACFlowRequestError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "invalidVehicleRegNumber",
+            "printedName": "invalidVehicleRegNumber",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(InAppChargingSDKiOS.IACFlowRequestError.Type) -> InAppChargingSDKiOS.IACFlowRequestError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACFlowRequestError",
+                    "printedName": "InAppChargingSDKiOS.IACFlowRequestError",
+                    "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "InAppChargingSDKiOS.IACFlowRequestError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACFlowRequestError",
+                        "printedName": "InAppChargingSDKiOS.IACFlowRequestError",
+                        "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO23invalidVehicleRegNumberyA2CmF",
+            "mangledName": "$s19InAppChargingSDKiOS19IACFlowRequestErrorO23invalidVehicleRegNumberyA2CmF",
+            "moduleName": "InAppChargingSDKiOS"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IACFlowRequestError",
+                "printedName": "InAppChargingSDKiOS.IACFlowRequestError",
+                "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IACFlowRequestError",
+                "printedName": "InAppChargingSDKiOS.IACFlowRequestError",
+                "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s19InAppChargingSDKiOS19IACFlowRequestErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "InAppChargingSDKiOS",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO9hashValueSivp",
+            "mangledName": "$s19InAppChargingSDKiOS19IACFlowRequestErrorO9hashValueSivp",
+            "moduleName": "InAppChargingSDKiOS",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO9hashValueSivg",
+                "mangledName": "$s19InAppChargingSDKiOS19IACFlowRequestErrorO9hashValueSivg",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s19InAppChargingSDKiOS19IACFlowRequestErrorO4hash4intoys6HasherVz_tF",
+            "moduleName": "InAppChargingSDKiOS",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:19InAppChargingSDKiOS19IACFlowRequestErrorO",
+        "mangledName": "$s19InAppChargingSDKiOS19IACFlowRequestErrorO",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IACSDKMode",
+        "printedName": "IACSDKMode",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "iap",
+            "printedName": "iap",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(InAppChargingSDKiOS.IACSDKMode.Type) -> InAppChargingSDKiOS.IACSDKMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACSDKMode",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                    "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACSDKMode",
+                        "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                        "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19InAppChargingSDKiOS10IACSDKModeO3iapyA2CmF",
+            "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO3iapyA2CmF",
+            "moduleName": "InAppChargingSDKiOS"
+          },
+          {
+            "kind": "Var",
+            "name": "drivepay",
+            "printedName": "drivepay",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(InAppChargingSDKiOS.IACSDKMode.Type) -> InAppChargingSDKiOS.IACSDKMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACSDKMode",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                    "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACSDKMode",
+                        "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                        "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19InAppChargingSDKiOS10IACSDKModeO8drivepayyA2CmF",
+            "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO8drivepayyA2CmF",
+            "moduleName": "InAppChargingSDKiOS"
+          },
+          {
+            "kind": "Var",
+            "name": "fastag",
+            "printedName": "fastag",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(InAppChargingSDKiOS.IACSDKMode.Type) -> InAppChargingSDKiOS.IACSDKMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACSDKMode",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                    "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACSDKMode",
+                        "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                        "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19InAppChargingSDKiOS10IACSDKModeO6fastagyA2CmF",
+            "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO6fastagyA2CmF",
+            "moduleName": "InAppChargingSDKiOS"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "InAppChargingSDKiOS.IACSDKMode?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACSDKMode",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                    "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19InAppChargingSDKiOS10IACSDKModeO8rawValueACSgSS_tcfc",
+            "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO8rawValueACSgSS_tcfc",
+            "moduleName": "InAppChargingSDKiOS",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS10IACSDKModeO8rawValueSSvp",
+            "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO8rawValueSSvp",
+            "moduleName": "InAppChargingSDKiOS",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS10IACSDKModeO8rawValueSSvg",
+                "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO8rawValueSSvg",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "allCases",
+            "printedName": "allCases",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[InAppChargingSDKiOS.IACSDKMode]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACSDKMode",
+                    "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                    "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS10IACSDKModeO8allCasesSayACGvpZ",
+            "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO8allCasesSayACGvpZ",
+            "moduleName": "InAppChargingSDKiOS",
+            "static": true,
+            "implicit": true,
+            "declAttributes": [
+              "Nonisolated"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[InAppChargingSDKiOS.IACSDKMode]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACSDKMode",
+                        "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                        "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS10IACSDKModeO8allCasesSayACGvgZ",
+                "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO8allCasesSayACGvgZ",
+                "moduleName": "InAppChargingSDKiOS",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:19InAppChargingSDKiOS10IACSDKModeO",
+        "mangledName": "$s19InAppChargingSDKiOS10IACSDKModeO",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CaseIterable",
+            "printedName": "CaseIterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AllCases",
+                "printedName": "AllCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[InAppChargingSDKiOS.IACSDKMode]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACSDKMode",
+                        "printedName": "InAppChargingSDKiOS.IACSDKMode",
+                        "usr": "s:19InAppChargingSDKiOS10IACSDKModeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12CaseIterableP",
+            "mangledName": "$ss12CaseIterableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IACVehicleType",
+        "printedName": "IACVehicleType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "ev",
+            "printedName": "ev",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(InAppChargingSDKiOS.IACVehicleType.Type) -> InAppChargingSDKiOS.IACVehicleType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACVehicleType",
+                    "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                    "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "InAppChargingSDKiOS.IACVehicleType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACVehicleType",
+                        "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                        "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO2evyA2CmF",
+            "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO2evyA2CmF",
+            "moduleName": "InAppChargingSDKiOS"
+          },
+          {
+            "kind": "Var",
+            "name": "ice",
+            "printedName": "ice",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(InAppChargingSDKiOS.IACVehicleType.Type) -> InAppChargingSDKiOS.IACVehicleType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACVehicleType",
+                    "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                    "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "InAppChargingSDKiOS.IACVehicleType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACVehicleType",
+                        "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                        "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO3iceyA2CmF",
+            "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO3iceyA2CmF",
+            "moduleName": "InAppChargingSDKiOS"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "InAppChargingSDKiOS.IACVehicleType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACVehicleType",
+                    "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                    "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO8rawValueACSgSS_tcfc",
+            "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO8rawValueACSgSS_tcfc",
+            "moduleName": "InAppChargingSDKiOS",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO8rawValueSSvp",
+            "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO8rawValueSSvp",
+            "moduleName": "InAppChargingSDKiOS",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO8rawValueSSvg",
+                "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO8rawValueSSvg",
+                "moduleName": "InAppChargingSDKiOS",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "allCases",
+            "printedName": "allCases",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[InAppChargingSDKiOS.IACVehicleType]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IACVehicleType",
+                    "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                    "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO8allCasesSayACGvpZ",
+            "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO8allCasesSayACGvpZ",
+            "moduleName": "InAppChargingSDKiOS",
+            "static": true,
+            "implicit": true,
+            "declAttributes": [
+              "Nonisolated"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[InAppChargingSDKiOS.IACVehicleType]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACVehicleType",
+                        "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                        "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO8allCasesSayACGvgZ",
+                "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO8allCasesSayACGvgZ",
+                "moduleName": "InAppChargingSDKiOS",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO",
+        "mangledName": "$s19InAppChargingSDKiOS14IACVehicleTypeO",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CaseIterable",
+            "printedName": "CaseIterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AllCases",
+                "printedName": "AllCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[InAppChargingSDKiOS.IACVehicleType]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IACVehicleType",
+                        "printedName": "InAppChargingSDKiOS.IACVehicleType",
+                        "usr": "s:19InAppChargingSDKiOS14IACVehicleTypeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12CaseIterableP",
+            "mangledName": "$ss12CaseIterableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InAppChargingSDkiOS",
+        "printedName": "InAppChargingSDkiOS",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getHelperFlowViewController",
+            "printedName": "getHelperFlowViewController(with:viewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IACFlowRequest",
+                "printedName": "InAppChargingSDKiOS.IACFlowRequest",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19InAppChargingSDKiOS0abc4SDkiE0C27getHelperFlowViewController4with04viewK0So06UIViewK0CAA14IACFlowRequestV_AHtKFZ",
+            "mangledName": "$s19InAppChargingSDKiOS0abc4SDkiE0C27getHelperFlowViewController4with04viewK0So06UIViewK0CAA14IACFlowRequestV_AHtKFZ",
+            "moduleName": "InAppChargingSDKiOS",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "requestToRegisterDevice",
+            "printedName": "requestToRegisterDevice(with:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IACFlowRequest",
+                "printedName": "InAppChargingSDKiOS.IACFlowRequest",
+                "usr": "s:19InAppChargingSDKiOS14IACFlowRequestV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<Swift.Bool, any Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<Swift.Bool, any Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "any Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19InAppChargingSDKiOS0abc4SDkiE0C23requestToRegisterDevice4with10completionyAA14IACFlowRequestV_ys6ResultOySbs5Error_pGctFZ",
+            "mangledName": "$s19InAppChargingSDKiOS0abc4SDkiE0C23requestToRegisterDevice4with10completionyAA14IACFlowRequestV_ys6ResultOySbs5Error_pGctFZ",
+            "moduleName": "InAppChargingSDKiOS",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "clearIAPData",
+            "printedName": "clearIAPData(completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19InAppChargingSDKiOS0abc4SDkiE0C12clearIAPData10completionyySbc_tFZ",
+            "mangledName": "$s19InAppChargingSDKiOS0abc4SDkiE0C12clearIAPData10completionyySbc_tFZ",
+            "moduleName": "InAppChargingSDKiOS",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:19InAppChargingSDKiOS0abc4SDkiE0C",
+        "mangledName": "$s19InAppChargingSDKiOS0abc4SDkiE0C",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS"
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS"
+      },
+      {
+        "kind": "Import",
+        "name": "FlutterPluginRegistrant",
+        "printedName": "FlutterPluginRegistrant",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceIDManager.swift",
+      "kind": "StringLiteral",
+      "offset": 308,
+      "length": 28,
+      "value": "\"com.tonetag.icpsdkDeviceID\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceRegisterResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 381,
+      "length": 22,
+      "value": "\"verificationResponse\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceRegisterResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 509,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceRegisterResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 13,
+      "value": "\"login_token\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceRegisterResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 5,
+      "value": "\"vrn\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceRegisterResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 621,
+      "length": 5,
+      "value": "\"vin\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTNetwork.swift",
+      "kind": "StringLiteral",
+      "offset": 299,
+      "length": 11,
+      "value": "\"TTNetwork\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTNetwork.swift",
+      "kind": "BooleanLiteral",
+      "offset": 360,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTUpiUtility.swift",
+      "kind": "Array",
+      "offset": 233,
+      "length": 107,
+      "value": "[\"phonepe:\/\/\", \"gpay:\/\/\", \"paytm:\/\/\", \"bhim:\/\/\", \"upi:\/\/pay\"]"
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/AppSecrets.swift",
+      "kind": "StringLiteral",
+      "offset": 168,
+      "length": 41,
+      "value": "\"LEmlKtJFZP6a-V6UvjP2SvwkUlMpeR24WomDse0\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/AppSecrets.swift",
+      "kind": "Dictionary",
+      "offset": 394,
+      "length": 337,
+      "value": "[(\"q\", \"p\"), (\"w\", \"o\"), (\"e\", \"i\"), (\"r\", \"u\"), (\"t\", \"y\"), (\"p\", \"q\"), (\"o\", \"w\"), (\"i\", \"e\"), (\"u\", \"r\"), (\"y\", \"t\"), (\"a\", \"l\"), (\"s\", \"k\"), (\"d\", \"j\"), (\"f\", \"h\"), (\"g\", \"g\"), (\"l\", \"a\"), (\"k\", \"s\"), (\"j\", \"d\"), (\"h\", \"f\"), (\"z\", \"m\"), (\"x\", \"n\"), (\"c\", \"b\"), (\"v\", \"v\"), (\"m\", \"z\"), (\"n\", \"x\"), (\"b\", \"c\")]"
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/IACServiceHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 455,
+      "length": 28,
+      "value": "\"https:\/\/iotpay.tonetag.com\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/InternalFlutterEngine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 749,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/InternalFlutterEngine.swift",
+      "kind": "StringLiteral",
+      "offset": 1068,
+      "length": 6,
+      "value": "\"main\""
+    }
+  ]
+}

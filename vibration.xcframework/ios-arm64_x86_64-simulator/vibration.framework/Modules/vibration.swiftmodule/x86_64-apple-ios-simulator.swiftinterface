@@ -1,0 +1,23 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name vibration
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
+import AudioToolbox
+import CoreHaptics
+import Flutter
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_exported import vibration
+@objc @_inheritsConvenienceInitializers public class VibrationPluginSwift : ObjectiveC.NSObject, Flutter.FlutterPlugin {
+  @available(iOS 13.0, *)
+  public static var engine: CoreHaptics.CHHapticEngine?
+  @objc public static func register(with registrar: any Flutter.FlutterPluginRegistrar)
+  @available(iOS 13.0, *)
+  public static func createEngine()
+  @objc public func handle(_ call: Flutter.FlutterMethodCall, result: @escaping Flutter.FlutterResult)
+  @objc override dynamic public init()
+  @objc deinit
+}

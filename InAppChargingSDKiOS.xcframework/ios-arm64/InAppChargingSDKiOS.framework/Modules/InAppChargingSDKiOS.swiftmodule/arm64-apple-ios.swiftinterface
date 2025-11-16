@@ -1,0 +1,68 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-module-flags: -target arm64-apple-ios14 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name InAppChargingSDKiOS
+// swift-module-flags-ignorable:  -interface-compiler-version 6.1.2
+import SystemConfiguration.CaptiveNetwork
+import Flutter
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers @usableFromInline
+final internal class TTDeviceIDManager {
+  @objc @usableFromInline
+  deinit
+}
+public struct IACFlowRequest {
+  public var userLocation: (latitude: Swift.Double, longitude: Swift.Double)
+  public var oneSignalID: Swift.String?
+  public init(sdkMode: InAppChargingSDKiOS.IACSDKMode, phoneNumber: Swift.String, userName: Swift.String? = nil, vehicleRegNumber: Swift.String, vehicleID: Swift.String, vehicleType: InAppChargingSDKiOS.IACVehicleType, carProductLineName: Swift.String, carModelName: Swift.String? = nil, userLocation: (latitude: Swift.Double, longitude: Swift.Double)? = nil, oneSignalID: Swift.String? = nil)
+}
+public enum IACFlowRequestError : Swift.Error {
+  case invalidVehicleRegNumber
+  public static func == (a: InAppChargingSDKiOS.IACFlowRequestError, b: InAppChargingSDKiOS.IACFlowRequestError) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum IACSDKMode : Swift.String, Swift.CaseIterable, Swift.Codable {
+  case iap, drivepay, fastag
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [InAppChargingSDKiOS.IACSDKMode]
+  public typealias RawValue = Swift.String
+  nonisolated public static var allCases: [InAppChargingSDKiOS.IACSDKMode] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum IACVehicleType : Swift.String, Swift.CaseIterable, Swift.Codable {
+  case ev, ice
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [InAppChargingSDKiOS.IACVehicleType]
+  public typealias RawValue = Swift.String
+  nonisolated public static var allCases: [InAppChargingSDKiOS.IACVehicleType] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class InAppChargingSDkiOS {
+  public static func getHelperFlowViewController(with request: InAppChargingSDKiOS.IACFlowRequest, viewController: UIKit.UIViewController) throws -> UIKit.UIViewController
+  public static func requestToRegisterDevice(with request: InAppChargingSDKiOS.IACFlowRequest, completion: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
+  public static func clearIAPData(completion: @escaping (_ isSuccess: Swift.Bool) -> Swift.Void)
+  @objc deinit
+}
+extension InAppChargingSDKiOS.IACFlowRequestError : Swift.Equatable {}
+extension InAppChargingSDKiOS.IACFlowRequestError : Swift.Hashable {}
+extension InAppChargingSDKiOS.IACSDKMode : Swift.Equatable {}
+extension InAppChargingSDKiOS.IACSDKMode : Swift.Hashable {}
+extension InAppChargingSDKiOS.IACSDKMode : Swift.RawRepresentable {}
+extension InAppChargingSDKiOS.IACVehicleType : Swift.Equatable {}
+extension InAppChargingSDKiOS.IACVehicleType : Swift.Hashable {}
+extension InAppChargingSDKiOS.IACVehicleType : Swift.RawRepresentable {}

@@ -1,0 +1,393 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "vibration",
+    "printedName": "vibration",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AudioToolbox",
+        "printedName": "AudioToolbox",
+        "declKind": "Import",
+        "moduleName": "vibration"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreHaptics",
+        "printedName": "CoreHaptics",
+        "declKind": "Import",
+        "moduleName": "vibration"
+      },
+      {
+        "kind": "Import",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "vibration"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "vibration"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VibrationPluginSwift",
+        "printedName": "VibrationPluginSwift",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "engine",
+            "printedName": "engine",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreHaptics.CHHapticEngine?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CHHapticEngine",
+                    "printedName": "CoreHaptics.CHHapticEngine",
+                    "usr": "c:objc(cs)CHHapticEngine"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvpZ",
+            "mangledName": "$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvpZ",
+            "moduleName": "vibration",
+            "static": true,
+            "intro_iOS": "13.0",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "Available"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreHaptics.CHHapticEngine?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CHHapticEngine",
+                        "printedName": "CoreHaptics.CHHapticEngine",
+                        "usr": "c:objc(cs)CHHapticEngine"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvgZ",
+                "mangledName": "$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvgZ",
+                "moduleName": "vibration",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CoreHaptics.CHHapticEngine?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CHHapticEngine",
+                        "printedName": "CoreHaptics.CHHapticEngine",
+                        "usr": "c:objc(cs)CHHapticEngine"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvsZ",
+                "mangledName": "$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvsZ",
+                "moduleName": "vibration",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvMZ",
+                "mangledName": "$s9vibration20VibrationPluginSwiftC6engineSo14CHHapticEngineCSgvMZ",
+                "moduleName": "vibration",
+                "static": true,
+                "implicit": true,
+                "intro_iOS": "13.0",
+                "declAttributes": [
+                  "Final",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "register",
+            "printedName": "register(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
+                "usr": "c:objc(pl)FlutterPluginRegistrar"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@vibration@objc(cs)VibrationPluginSwift(cm)registerWithRegistrar:",
+            "mangledName": "$s9vibration20VibrationPluginSwiftC8register4withySo07FlutterC9Registrar_p_tFZ",
+            "moduleName": "vibration",
+            "static": true,
+            "objc_name": "registerWithRegistrar:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createEngine",
+            "printedName": "createEngine()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9vibration20VibrationPluginSwiftC12createEngineyyFZ",
+            "mangledName": "$s9vibration20VibrationPluginSwiftC12createEngineyyFZ",
+            "moduleName": "vibration",
+            "static": true,
+            "intro_iOS": "13.0",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "Available"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "handle",
+            "printedName": "handle(_:result:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FlutterMethodCall",
+                "printedName": "Flutter.FlutterMethodCall",
+                "usr": "c:objc(cs)FlutterMethodCall"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Any?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@vibration@objc(cs)VibrationPluginSwift(im)handleMethodCall:result:",
+            "mangledName": "$s9vibration20VibrationPluginSwiftC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "moduleName": "vibration",
+            "objc_name": "handleMethodCall:result:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VibrationPluginSwift",
+                "printedName": "vibration.VibrationPluginSwift",
+                "usr": "c:@M@vibration@objc(cs)VibrationPluginSwift"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@vibration@objc(cs)VibrationPluginSwift(im)init",
+            "mangledName": "$s9vibration20VibrationPluginSwiftCACycfc",
+            "moduleName": "vibration",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@vibration@objc(cs)VibrationPluginSwift",
+        "mangledName": "$s9vibration20VibrationPluginSwiftC",
+        "moduleName": "vibration",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/madhan\/.pub-cache\/hosted\/pub.dev\/vibration-3.1.4\/ios\/Classes\/VibrationPluginSwift.swift",
+      "kind": "BooleanLiteral",
+      "offset": 228,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}
