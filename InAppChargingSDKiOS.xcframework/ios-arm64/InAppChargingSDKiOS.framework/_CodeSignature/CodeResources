@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		vvLOJUCtMqC+LWi+Gyh0aQ/pEWk=
+		z3V0jZ/UH/vhfmpeR1SL4r4vakA=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -1802,23 +1802,23 @@
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		SCu5NeW5sEvkMfFww25eHt7DI/0=
+		4z8W21XPDgSoXzr82RX+H64HFX8=
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		UzuBkXvClPZ7nqEWTPRuA1i+/Q8=
+		bpHBi9S8H+qqu0hk1IgQApOFCsA=
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		EobdeTQfNmb4R0EZTfen/1bUZp4=
+		cR/znNTqrsg+wySo1KIMPfAuTHQ=
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UzuBkXvClPZ7nqEWTPRuA1i+/Q8=
+		bpHBi9S8H+qqu0hk1IgQApOFCsA=
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ytEkI5HehusQQ+DRRycTf8qe3pU=
+		XnYurEN2LCd4h3RtTGGTlA/tcTQ=
 		</data>
 		<key>google_maps_flutter_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -1835,7 +1835,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OlKccRc5hthbM75ejF0O1LEBBMwCj0JKwUGrthRdolk=
+			91mjAErAg+15sh6Ay7yKHEknVvANDdaNtB8HNfhlLl0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -4620,35 +4620,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zVflHKLjiao4EP/ebjsfgKSyL58/upZ1AVok9X9xxI0=
+			o3+WaedRyNGWQLOT4HnG9k9wPmou3JP8KJmyJdSAIIE=
 			</data>
 		</dict>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7/tnwoQf6hSEUO52vyPm+04k/b99HkjVpOFf7JwR1mA=
+			+VafWBhOSGT5Z0e5LKN8pbQ7qN61pXgDnOEq1zIyB2A=
 			</data>
 		</dict>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5eHWRDPTqM6WH7J3dI0z3cPpwvRjsWgsB9MInf/sIn4=
+			6ChYD3jxHjDjiVhkRq+P+GLwhyCefu6F71GjO14RYGM=
 			</data>
 		</dict>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7/tnwoQf6hSEUO52vyPm+04k/b99HkjVpOFf7JwR1mA=
+			+VafWBhOSGT5Z0e5LKN8pbQ7qN61pXgDnOEq1zIyB2A=
 			</data>
 		</dict>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uGqkiPkXiWSfNosOvq17AtOKJiHT2AbJJZ+JxdB9B+0=
+			I1g/4ksnx0LISW6FWkLaha+Xd1B8fDhnOVVUlfkES+w=
 			</data>
 		</dict>
 		<key>google_maps_flutter_ios_privacy.bundle/Info.plist</key>
