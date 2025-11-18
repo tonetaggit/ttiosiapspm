@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		z3V0jZ/UH/vhfmpeR1SL4r4vakA=
+		rg8ykNUwNRtQlo150jhwLvr9NbQ=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -1802,7 +1802,7 @@
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		4z8W21XPDgSoXzr82RX+H64HFX8=
+		E8RZwu1oemVCC5eJsxYsGsl2kJU=
 		</data>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -1835,7 +1835,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			91mjAErAg+15sh6Ay7yKHEknVvANDdaNtB8HNfhlLl0=
+			U9e7ytRZStxdwxyK1sBoiuGH00Jutu9k5viSZw23uck=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -4620,7 +4620,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3+WaedRyNGWQLOT4HnG9k9wPmou3JP8KJmyJdSAIIE=
+			uBq50FK4DmvHpIxc9y2wNbqaE0kElos3SEWOYaCqAME=
 			</data>
 		</dict>
 		<key>Modules/InAppChargingSDKiOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
