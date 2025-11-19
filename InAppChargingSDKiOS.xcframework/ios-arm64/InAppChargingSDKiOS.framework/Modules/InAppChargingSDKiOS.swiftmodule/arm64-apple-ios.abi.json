@@ -6,134 +6,6 @@
     "children": [
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Flutter",
-        "printedName": "Flutter",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS"
-      },
-      {
-        "kind": "Import",
-        "name": "CryptoKit",
-        "printedName": "CryptoKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Security",
-        "printedName": "Security",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreLocation",
-        "printedName": "CoreLocation",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS"
-      },
-      {
-        "kind": "Import",
-        "name": "FlutterPluginRegistrant",
-        "printedName": "FlutterPluginRegistrant",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreTelephony",
-        "printedName": "CoreTelephony",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreLocation",
-        "printedName": "CoreLocation",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreTelephony",
-        "printedName": "CoreTelephony",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CryptoKit",
-        "printedName": "CryptoKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Security",
-        "printedName": "Security",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -352,8 +224,15 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS"
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
         "declKind": "Import",
         "moduleName": "InAppChargingSDKiOS",
         "declAttributes": [
@@ -373,39 +252,204 @@
       },
       {
         "kind": "Import",
-        "name": "SystemConfiguration.CaptiveNetwork",
-        "printedName": "SystemConfiguration.CaptiveNetwork",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "InAppChargingSDKiOS"
       },
       {
-        "kind": "TypeDecl",
-        "name": "TTDeviceIDManager",
-        "printedName": "TTDeviceIDManager",
-        "declKind": "Class",
-        "usr": "s:19InAppChargingSDKiOS17TTDeviceIDManagerC",
-        "mangledName": "$s19InAppChargingSDKiOS17TTDeviceIDManagerC",
+        "kind": "Import",
+        "name": "FlutterPluginRegistrant",
+        "printedName": "FlutterPluginRegistrant",
+        "declKind": "Import",
         "moduleName": "InAppChargingSDKiOS",
         "declAttributes": [
-          "Final",
-          "UsableFromInline"
-        ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMaps",
+        "printedName": "GoogleMaps",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InAppChargingSDKiOS",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -1692,16 +1736,6 @@
       },
       {
         "kind": "Import",
-        "name": "GoogleMaps",
-        "printedName": "GoogleMaps",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1709,47 +1743,6 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Network",
-        "printedName": "Network",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CryptoKit",
-        "printedName": "CryptoKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
         ]
       },
       {
@@ -1764,32 +1757,39 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "SystemConfiguration.CaptiveNetwork",
+        "printedName": "SystemConfiguration.CaptiveNetwork",
         "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "AccessControl"
-        ]
+        "moduleName": "InAppChargingSDKiOS"
       },
       {
-        "kind": "Import",
-        "name": "Security",
-        "printedName": "Security",
-        "declKind": "Import",
+        "kind": "TypeDecl",
+        "name": "TTDeviceIDManager",
+        "printedName": "TTDeviceIDManager",
+        "declKind": "Class",
+        "usr": "s:19InAppChargingSDKiOS17TTDeviceIDManagerC",
+        "mangledName": "$s19InAppChargingSDKiOS17TTDeviceIDManagerC",
         "moduleName": "InAppChargingSDKiOS",
         "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "InAppChargingSDKiOS",
-        "declAttributes": [
-          "RawDocComment"
+          "Final",
+          "UsableFromInline"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       }
     ],
@@ -1809,6 +1809,20 @@
       "offset": 1067,
       "length": 6,
       "value": "\"main\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/AppSecrets.swift",
+      "kind": "StringLiteral",
+      "offset": 168,
+      "length": 41,
+      "value": "\"LEmlKtCuc7YUkFkke_qV9OlWZv9-fBnWzk6uAF0\""
+    },
+    {
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/AppSecrets.swift",
+      "kind": "Dictionary",
+      "offset": 394,
+      "length": 337,
+      "value": "[(\"q\", \"p\"), (\"w\", \"o\"), (\"e\", \"i\"), (\"r\", \"u\"), (\"t\", \"y\"), (\"p\", \"q\"), (\"o\", \"w\"), (\"i\", \"e\"), (\"u\", \"r\"), (\"y\", \"t\"), (\"a\", \"l\"), (\"s\", \"k\"), (\"d\", \"j\"), (\"f\", \"h\"), (\"g\", \"g\"), (\"l\", \"a\"), (\"k\", \"s\"), (\"j\", \"d\"), (\"h\", \"f\"), (\"z\", \"m\"), (\"x\", \"n\"), (\"c\", \"b\"), (\"v\", \"v\"), (\"m\", \"z\"), (\"n\", \"x\"), (\"b\", \"c\")]"
     },
     {
       "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceRegisterResponse.swift",
@@ -1846,13 +1860,6 @@
       "value": "\"vin\""
     },
     {
-      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceIDManager.swift",
-      "kind": "StringLiteral",
-      "offset": 308,
-      "length": 28,
-      "value": "\"com.tonetag.icpsdkDeviceID\""
-    },
-    {
       "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTNetwork.swift",
       "kind": "StringLiteral",
       "offset": 299,
@@ -1867,18 +1874,11 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/AppSecrets.swift",
-      "kind": "StringLiteral",
-      "offset": 168,
-      "length": 41,
-      "value": "\"LEmlKtCuc7YUkFkke_qV9OlWZv9-fBnWzk6uAF0\""
-    },
-    {
-      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/AppSecrets.swift",
-      "kind": "Dictionary",
-      "offset": 394,
-      "length": 337,
-      "value": "[(\"q\", \"p\"), (\"w\", \"o\"), (\"e\", \"i\"), (\"r\", \"u\"), (\"t\", \"y\"), (\"p\", \"q\"), (\"o\", \"w\"), (\"i\", \"e\"), (\"u\", \"r\"), (\"y\", \"t\"), (\"a\", \"l\"), (\"s\", \"k\"), (\"d\", \"j\"), (\"f\", \"h\"), (\"g\", \"g\"), (\"l\", \"a\"), (\"k\", \"s\"), (\"j\", \"d\"), (\"h\", \"f\"), (\"z\", \"m\"), (\"x\", \"n\"), (\"c\", \"b\"), (\"v\", \"v\"), (\"m\", \"z\"), (\"n\", \"x\"), (\"b\", \"c\")]"
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTUpiUtility.swift",
+      "kind": "Array",
+      "offset": 233,
+      "length": 107,
+      "value": "[\"phonepe:\/\/\", \"gpay:\/\/\", \"paytm:\/\/\", \"bhim:\/\/\", \"upi:\/\/pay\"]"
     },
     {
       "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/IACServiceHelper.swift",
@@ -1888,11 +1888,11 @@
       "value": "\"https:\/\/iotpay.tonetag.com\""
     },
     {
-      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTUpiUtility.swift",
-      "kind": "Array",
-      "offset": 233,
-      "length": 107,
-      "value": "[\"phonepe:\/\/\", \"gpay:\/\/\", \"paytm:\/\/\", \"bhim:\/\/\", \"upi:\/\/pay\"]"
+      "filePath": "\/Users\/madhan\/Projects\/IAP\/InAppChargingSDKiOS\/InAppChargingSDKiOS\/TTDeviceIDManager.swift",
+      "kind": "StringLiteral",
+      "offset": 308,
+      "length": 28,
+      "value": "\"com.tonetag.icpsdkDeviceID\""
     }
   ]
 }
