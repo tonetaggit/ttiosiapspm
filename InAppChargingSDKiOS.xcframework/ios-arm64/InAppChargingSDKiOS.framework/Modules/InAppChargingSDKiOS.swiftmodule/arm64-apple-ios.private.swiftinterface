@@ -10,18 +10,6 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class InAppChargingSDkiOS {
-  public static func getHelperFlowViewController(with request: InAppChargingSDKiOS.IACFlowRequest, viewController: UIKit.UIViewController) throws -> UIKit.UIViewController
-  public static func requestToRegisterDevice(with request: InAppChargingSDKiOS.IACFlowRequest, completion: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
-  public static func setIsRfidSessionStarted(with request: Swift.Bool)
-  public static func clearIAPData(completion: @escaping (_ isSuccess: Swift.Bool) -> Swift.Void)
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers @usableFromInline
-final internal class TTDeviceIDManager {
-  @objc @usableFromInline
-  deinit
-}
 public struct IACFlowRequest {
   public var userLocation: (latitude: Swift.Double, longitude: Swift.Double)
   public var oneSignalID: Swift.String?
@@ -58,6 +46,18 @@ public enum IACVehicleType : Swift.String, Swift.CaseIterable, Swift.Codable {
   public var rawValue: Swift.String {
     get
   }
+}
+@_hasMissingDesignatedInitializers public class InAppChargingSDkiOS {
+  public static func getHelperFlowViewController(with request: InAppChargingSDKiOS.IACFlowRequest, viewController: UIKit.UIViewController) throws -> UIKit.UIViewController
+  public static func requestToRegisterDevice(with request: InAppChargingSDKiOS.IACFlowRequest, completion: @escaping (Swift.Result<Swift.Bool, any Swift.Error>) -> Swift.Void)
+  public static func setIsRfidSessionStarted(with request: Swift.Bool)
+  public static func clearIAPData(completion: @escaping (_ isSuccess: Swift.Bool) -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @usableFromInline
+final internal class TTDeviceIDManager {
+  @objc @usableFromInline
+  deinit
 }
 extension InAppChargingSDKiOS.IACFlowRequestError : Swift.Equatable {}
 extension InAppChargingSDKiOS.IACFlowRequestError : Swift.Hashable {}
