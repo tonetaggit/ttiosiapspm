@@ -19,7 +19,7 @@ let package = Package(
         .target(
             name: "IACFlowViewProvider",
             dependencies: [
-                "App",
+               "iraIos",
                 "image_picker_ios",
                 // "InAppChargingSDKiOS",
                 "webview_flutter_wkwebview",
@@ -36,11 +36,11 @@ let package = Package(
 
         ),
 
-            .binaryTarget(
-                name: "App",
-                path: "./App.xcframework"
-            ),
-          
+           .binaryTarget(
+               name: "iraIos",
+               path: "./iraIos.xcframework"
+           ),
+         
 
     
          .binaryTarget(
