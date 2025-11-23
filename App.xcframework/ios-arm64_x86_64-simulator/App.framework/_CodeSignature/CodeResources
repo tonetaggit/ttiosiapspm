@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		93yjcIQz/N+r1ZxQAuGdg+b/j7Y=
+		jp51OALfuRk1byyYuM0tvexWsyU=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		1p50740jY2i2xUB3COd39zxeLwo=
+		eVDwELawyHD6J1GAnpe/Q4AqVR4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -840,6 +840,30 @@
 		<data>
 		Ra7GHVw7WXB/FCZ//QXWXeQ7f14=
 		</data>
+		<key>flutter_assets/assets/rfid/india.png</key>
+		<data>
+		KWH+7cz1p8Ep47j5weqmyHRRa5A=
+		</data>
+		<key>flutter_assets/assets/rfid/rfid.svg</key>
+		<data>
+		/E7yFqozicT4WTHPcmJnFHrLhSk=
+		</data>
+		<key>flutter_assets/assets/rfid/rfid_card_suffix.svg</key>
+		<data>
+		jFvuhHfUkZlaRyKL1H97GC9TA/E=
+		</data>
+		<key>flutter_assets/assets/rfid/rfid_cards_latest.png</key>
+		<data>
+		50dyzVCYV5LQmBnfJYfaOzQfqy4=
+		</data>
+		<key>flutter_assets/assets/rfid/rfid_green_card_frame.svg</key>
+		<data>
+		3p1ClhuT2wOL9enK+leuEYDFeU0=
+		</data>
+		<key>flutter_assets/assets/rfid/rfid_success.svg</key>
+		<data>
+		mcZa0oTgRUDJ+zSTlMx6BvCFgBI=
+		</data>
 		<key>flutter_assets/assets/txfilter/calendar.svg</key>
 		<data>
 		OuUOJvXhtTtvSaAmCufb5c3L64I=
@@ -899,14 +923,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtQpiwftUsnrweBGfWjsYoNgcNas8XBm4j/kzjAFS0U=
+			B8bwZZFRYREfvrnuJQf/w2qsdoPmT7jyRaW1fK+V7LU=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M04ZqAm6mFEjodwidQ0jtFvKpxajm9G7uYo+FwYuXY4=
+			5WylSPMcsq/JWk3uWl6wXAXJMLcvABP/a7YxAgVuESs=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2314,6 +2338,48 @@
 			<key>hash2</key>
 			<data>
 			A2gwxho0+kb17HrIKXbDCr/BFtTb2FYkHIgZ9011luk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/rfid/india.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			czUY1N/ce5KiUJzpCIwppGmrf/o0aNFgujHBw72/JoA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/rfid/rfid.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KwiiAbC2KPHQNQMQCoLMOrJWJLEsQb4ANY4iZNmTfW0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/rfid/rfid_card_suffix.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XBzE77NFYiQGQ0XhCgxegXi73uAGQfGH9F9UyaBZDww=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/rfid/rfid_cards_latest.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ToLScqnZzsjeWFL+4Nv12PWY6ZySUVa46GC710kR3I8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/rfid/rfid_green_card_frame.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R89E760riTGmuikgmM/aB6EHv2Zso7YB6tgSpnc7tgc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/rfid/rfid_success.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fXnQmbYUWGPC4r5M824DMSK48ASA6mM02BW99gZSrug=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/txfilter/calendar.svg</key>
