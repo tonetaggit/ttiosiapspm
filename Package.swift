@@ -19,14 +19,15 @@ let package = Package(
         .target(
             name: "IACFlowViewProvider",
             dependencies: [
-               "App",
+                "App",
                 "image_picker_ios",
                 "webview_flutter_wkwebview",
                 "share_plus",
                 "path_provider_foundation",
                 "device_info_plus",
                 "mobile_scanner",
-                "vibration"
+                "vibration",
+                // "Tonetag"
      
             ],
             
@@ -39,6 +40,11 @@ let package = Package(
                name: "App",
                path: "./App.xcframework"
            ),
+         
+        //    .binaryTarget(
+        //        name: "Tonetag",
+        //        path: "./Tonetag.xcframework"
+        //    ),
          
 
     
