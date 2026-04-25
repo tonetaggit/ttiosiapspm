@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		/6HYgqyKkRMUiNZSKP50v02sINs=
+		mz+x5/WTkNSkaGSm8wlO/M9eNls=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		auEjCs+yLjq8Nnzp6fyr2Szunt8=
+		xkIisSSClQBRAVqutX5sr9xjWiA=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>flutter_assets/assets/.DS_Store</key>
 		<data>
-		hzXFc5hU6qzneqAmVz+5wEFY/mg=
+		6UmoljmAdI9vVZX91Q3SmjcP+ds=
 		</data>
 		<key>flutter_assets/assets/alert.svg</key>
 		<data>
@@ -47,6 +47,10 @@
 		<key>flutter_assets/assets/charge/.DS_Store</key>
 		<data>
 		7ZnQDPPneazwoANAboHj7iEXKU8=
+		</data>
+		<key>flutter_assets/assets/charge/available_walkthrough.svg</key>
+		<data>
+		AfxVglicnFe+ClQFRxRUFD6qQmw=
 		</data>
 		<key>flutter_assets/assets/charge/charge_fast_available.svg</key>
 		<data>
@@ -242,7 +246,7 @@
 		</data>
 		<key>flutter_assets/assets/charge/end_marker.svg</key>
 		<data>
-		IfVPvFEg/5Ef1yJc0vn3ejDLIo4=
+		5iOy5Jl6gDnKNyyaVCumLBTUJ7k=
 		</data>
 		<key>flutter_assets/assets/charge/ev_verified_available.svg</key>
 		<data>
@@ -338,7 +342,7 @@
 		</data>
 		<key>flutter_assets/assets/charging_status/failed_charging.svg</key>
 		<data>
-		7rPXuwZwmiQ/i8ZyHHBNG6LjDrs=
+		ep8tcmhO3YhZzHWxg8UGSpducto=
 		</data>
 		<key>flutter_assets/assets/close.svg</key>
 		<data>
@@ -460,6 +464,10 @@
 		<data>
 		BfP/wonEHT3NpiiU+FjgeuCEDOo=
 		</data>
+		<key>flutter_assets/assets/common/drag_handle.svg</key>
+		<data>
+		LyfiY9astH7v7Njx/LfzY3rcZP8=
+		</data>
 		<key>flutter_assets/assets/common/drivepay.svg</key>
 		<data>
 		0xZkdSqw0tbBwWqQNtRoQVtf2d4=
@@ -528,6 +536,10 @@
 		<data>
 		263zwgut3+S1Xlqzf4tVlSLnkYA=
 		</data>
+		<key>flutter_assets/assets/common/no_chargers_found.svg</key>
+		<data>
+		S+HujMs+yFB5eQdvP0fJ4nj5q1c=
+		</data>
 		<key>flutter_assets/assets/common/pending.svg</key>
 		<data>
 		rH7q3BsNuventFu5Yb9gIUvIKS8=
@@ -548,6 +560,10 @@
 		<data>
 		XOlLgPXpAsLhOHFtC93MpJxcyY0=
 		</data>
+		<key>flutter_assets/assets/common/refresh-circle.svg</key>
+		<data>
+		nH7UU21dsyz8HebChIYo0s65qtY=
+		</data>
 		<key>flutter_assets/assets/common/right.svg</key>
 		<data>
 		SSfp+0QnK3LiAstAoDbWQqTO61k=
@@ -559,6 +575,10 @@
 		<key>flutter_assets/assets/common/route_plan_waypoint.svg</key>
 		<data>
 		U/LmvvnfUm2nWBiyY1K+0pp61cQ=
+		</data>
+		<key>flutter_assets/assets/common/route_planner_indicator.svg</key>
+		<data>
+		54P8joP9hkuTVjgGSJNCsRiKjPI=
 		</data>
 		<key>flutter_assets/assets/common/select.svg</key>
 		<data>
@@ -675,6 +695,162 @@
 		<key>flutter_assets/assets/fastag.png</key>
 		<data>
 		w2vwm38l3NYHdS9UD4kRvUQG6TY=
+		</data>
+		<key>flutter_assets/assets/fastag/alert.svg</key>
+		<data>
+		tDWUTZh6fHQDDTbRh6MOOT6AcPc=
+		</data>
+		<key>flutter_assets/assets/fastag/bharat-connect.svg</key>
+		<data>
+		GBCpTVAvS0RsVnOZhvw4b7u0WCA=
+		</data>
+		<key>flutter_assets/assets/fastag/car.png</key>
+		<data>
+		gHDYr9fGnqbULmfk777Gf7++XgA=
+		</data>
+		<key>flutter_assets/assets/fastag/close.svg</key>
+		<data>
+		+KfnxbyHu8JU1Uhvz7T6pJdMFmc=
+		</data>
+		<key>flutter_assets/assets/fastag/failed.svg</key>
+		<data>
+		FqRmMJfqRMH4ha9JknhvYpVssw4=
+		</data>
+		<key>flutter_assets/assets/fastag/fastag.png</key>
+		<data>
+		w2vwm38l3NYHdS9UD4kRvUQG6TY=
+		</data>
+		<key>flutter_assets/assets/fastag/forward_icon.svg</key>
+		<data>
+		UltAdugTjt6WuH2l0ED7bQwRUuE=
+		</data>
+		<key>flutter_assets/assets/fastag/icon_back.svg</key>
+		<data>
+		QqMe1UFQoZKx6P9rBjxRVgve9cU=
+		</data>
+		<key>flutter_assets/assets/fastag/json/location.json</key>
+		<data>
+		6SsyPY2yrgGZDUb4kuvzlSDyJcA=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/.DS_Store</key>
+		<data>
+		aed+0JGq3zPTSUmQVv7uaANXaL0=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/airtel.svg</key>
+		<data>
+		Ke4bXofdYAXM958OLCJDYwN7sBw=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/amazon_dark.svg</key>
+		<data>
+		Jh7YjR6gBK932Tu2WYoJUqI5gfo=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/amazon_light.svg</key>
+		<data>
+		SKTwM9ID8UZOUzcTM3dOsqT9qDY=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/bhim.svg</key>
+		<data>
+		+oGVHqxqW6b9MIFkmoFv+/ruM9I=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/bhim_light_updated.svg</key>
+		<data>
+		l1wKIkR/hSwpgo7BJHCd4hP1SCE=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/cred_dark.svg</key>
+		<data>
+		xzPKZgQ6eONQK83x7fPTcsx5GqU=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/cred_light.svg</key>
+		<data>
+		pHsyoeq4SCQFAKM72r//itMu0dM=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/freecharge.svg</key>
+		<data>
+		PhGTCnUg/xXupcwv5beWKfTxwNM=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/gpayForDark.svg</key>
+		<data>
+		mBRLfZ1r01Kq9+LUTesiTQUgW3Q=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/gpayforLight.svg</key>
+		<data>
+		exjQrGX64i+p0K8HwwcjY+HPLwc=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/jupiter_updated.svg</key>
+		<data>
+		e4Y6z4xPBCedbYk68+UWEjCb1I0=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/mobikwik.svg</key>
+		<data>
+		Dg7B+5IUmRYBlM4Vy4EvkRxt1cY=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/paytm.svg</key>
+		<data>
+		gXq2aMEmBOb1DVcjG/RlIpxY908=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/payzapp.png</key>
+		<data>
+		3GmvSms8yPyp3KDPIm/yfLGVXvs=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/phonepay.svg</key>
+		<data>
+		yfW0nMStTScQDjPveeS/zGUd0hU=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/samsungpay.png</key>
+		<data>
+		TQBJm1rVMiNMcs+gGsy8TObsKoI=
+		</data>
+		<key>flutter_assets/assets/fastag/payments/supermoney.svg</key>
+		<data>
+		tIW7HIWCtRnt7ILUJ5AOsfeXRok=
+		</data>
+		<key>flutter_assets/assets/fastag/refersh.svg</key>
+		<data>
+		rs5BaWP5DpYIRT7O148LI8WpfyM=
+		</data>
+		<key>flutter_assets/assets/fastag/right.svg</key>
+		<data>
+		SSfp+0QnK3LiAstAoDbWQqTO61k=
+		</data>
+		<key>flutter_assets/assets/fastag/search.svg</key>
+		<data>
+		2KI7bpTN881XnOLKisM74yGXzWg=
+		</data>
+		<key>flutter_assets/assets/fastag/select.svg</key>
+		<data>
+		SQxKjLcsdJlUnC7HVXyivSeYCbM=
+		</data>
+		<key>flutter_assets/assets/fastag/success.svg</key>
+		<data>
+		mcZa0oTgRUDJ+zSTlMx6BvCFgBI=
+		</data>
+		<key>flutter_assets/assets/fastag/support.svg</key>
+		<data>
+		zGE9B3ctrgCbIc/ASKmTRpi5+a0=
+		</data>
+		<key>flutter_assets/assets/fastag/toll.svg</key>
+		<data>
+		w9Z7fT/zmGNWzpqqtFyvxUsFHVM=
+		</data>
+		<key>flutter_assets/assets/fastag/toneTag.svg</key>
+		<data>
+		0JZ7inRMbfV42FR7rueGUvR/hKs=
+		</data>
+		<key>flutter_assets/assets/fastag/tonetag_light.svg</key>
+		<data>
+		kCrlEwro5L9du0bvZQQCoUAOpn8=
+		</data>
+		<key>flutter_assets/assets/fastag/un_select.svg</key>
+		<data>
+		WJGXBQNuE0N2PPaKRjb/yax4GPQ=
+		</data>
+		<key>flutter_assets/assets/fastag/upi.svg</key>
+		<data>
+		bAdAVxNM19j38O7ewBSgXNeC2DE=
+		</data>
+		<key>flutter_assets/assets/fastag/upifordark.svg</key>
+		<data>
+		fGwbbtStem7E4yeCTpgsms17Zrc=
 		</data>
 		<key>flutter_assets/assets/filter/available.svg</key>
 		<data>
@@ -816,6 +992,10 @@
 		<data>
 		2KI7bpTN881XnOLKisM74yGXzWg=
 		</data>
+		<key>flutter_assets/assets/map/start_location.png</key>
+		<data>
+		BUGkvZ9gNksKsZPQ9spGaK/H8CA=
+		</data>
 		<key>flutter_assets/assets/map/stations_indicator.svg</key>
 		<data>
 		EhCnC1xxE44Fe0iQ6AYJ9a9Zjn0=
@@ -858,75 +1038,31 @@
 		</data>
 		<key>flutter_assets/assets/payments/.DS_Store</key>
 		<data>
-		aed+0JGq3zPTSUmQVv7uaANXaL0=
+		jbn7n+frOdbeby/2fReBm6oYLyg=
 		</data>
-		<key>flutter_assets/assets/payments/airtel.svg</key>
+		<key>flutter_assets/assets/payments/tt_amazon_pay.svg</key>
 		<data>
-		Ke4bXofdYAXM958OLCJDYwN7sBw=
+		7+lSeAKVA+T1KsQBO6gwt4Bvj7I=
 		</data>
-		<key>flutter_assets/assets/payments/amazon_dark.svg</key>
+		<key>flutter_assets/assets/payments/tt_bhim.svg</key>
 		<data>
-		Jh7YjR6gBK932Tu2WYoJUqI5gfo=
+		oLTd9hRaJz6YsfjR26sRCJsPAa4=
 		</data>
-		<key>flutter_assets/assets/payments/amazon_light.svg</key>
-		<data>
-		SKTwM9ID8UZOUzcTM3dOsqT9qDY=
-		</data>
-		<key>flutter_assets/assets/payments/bhim.svg</key>
-		<data>
-		+oGVHqxqW6b9MIFkmoFv+/ruM9I=
-		</data>
-		<key>flutter_assets/assets/payments/bhim_light_updated.svg</key>
-		<data>
-		l1wKIkR/hSwpgo7BJHCd4hP1SCE=
-		</data>
-		<key>flutter_assets/assets/payments/cred_dark.svg</key>
+		<key>flutter_assets/assets/payments/tt_cred.svg</key>
 		<data>
 		xzPKZgQ6eONQK83x7fPTcsx5GqU=
 		</data>
-		<key>flutter_assets/assets/payments/cred_light.svg</key>
+		<key>flutter_assets/assets/payments/tt_gpay.svg</key>
 		<data>
-		pHsyoeq4SCQFAKM72r//itMu0dM=
+		ZIeniZv4f6NazNeH4ZMMsuj+kvk=
 		</data>
-		<key>flutter_assets/assets/payments/freecharge.svg</key>
+		<key>flutter_assets/assets/payments/tt_paytm.png</key>
 		<data>
-		PhGTCnUg/xXupcwv5beWKfTxwNM=
+		5cpxnqLO0Y4SB1XWzSw5QoI2YN0=
 		</data>
-		<key>flutter_assets/assets/payments/gpayForDark.svg</key>
+		<key>flutter_assets/assets/payments/tt_phonepe.svg</key>
 		<data>
-		mBRLfZ1r01Kq9+LUTesiTQUgW3Q=
-		</data>
-		<key>flutter_assets/assets/payments/gpayforLight.svg</key>
-		<data>
-		7nn0VLOJbkcNpszrzKgtzUkfT1k=
-		</data>
-		<key>flutter_assets/assets/payments/jupiter_updated.svg</key>
-		<data>
-		e4Y6z4xPBCedbYk68+UWEjCb1I0=
-		</data>
-		<key>flutter_assets/assets/payments/mobikwik.svg</key>
-		<data>
-		Dg7B+5IUmRYBlM4Vy4EvkRxt1cY=
-		</data>
-		<key>flutter_assets/assets/payments/paytm.svg</key>
-		<data>
-		gXq2aMEmBOb1DVcjG/RlIpxY908=
-		</data>
-		<key>flutter_assets/assets/payments/payzapp.png</key>
-		<data>
-		3GmvSms8yPyp3KDPIm/yfLGVXvs=
-		</data>
-		<key>flutter_assets/assets/payments/phonepay.svg</key>
-		<data>
-		yfW0nMStTScQDjPveeS/zGUd0hU=
-		</data>
-		<key>flutter_assets/assets/payments/samsungpay.png</key>
-		<data>
-		TQBJm1rVMiNMcs+gGsy8TObsKoI=
-		</data>
-		<key>flutter_assets/assets/payments/supermoney.svg</key>
-		<data>
-		Ra7GHVw7WXB/FCZ//QXWXeQ7f14=
+		zaOYKrWW0SjQ7FdB1UezGPZowW4=
 		</data>
 		<key>flutter_assets/assets/refersh.svg</key>
 		<data>
@@ -1046,7 +1182,7 @@
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		L5R52/Nk/WlZnM8YushsVhDbQY8=
+		IRHfQA4YFNkIjTraXhiV8Yt66bc=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1063,14 +1199,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rkC+7dF4gZNS6n8/QlQGWaOKs0a40xkqhfQOZL/YlHw=
+			9xGJ6jKWuj9Qz6YXDUuS7Z21tyeXcgqMwMoAnXTAsUc=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3oYDIN7LfKaV7u9WTLNmsT6yssWHXmDOV6SJ5itV2g8=
+			JWzsktyT7JeOvzipTHQpfblymGFUFe5+aiPWKq+SMng=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -1113,6 +1249,13 @@
 			<key>hash2</key>
 			<data>
 			NRMp53Y1ip9Qh3890wsftj1AA3b0Y68G2DSRqMG3z4o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/charge/available_walkthrough.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rEu5HYFbEIZ5s21lXwYChGsyFm8uZ5AoDh2jFnvpsfU=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/charge/charge_fast_available.svg</key>
@@ -1455,7 +1598,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qXclt5ow8s6gX9Z5WrI1w3GtPAtgtS3kfk7AR3hZw34=
+			qhScPV0che+mruUOjDcfiD5hsphwkfoJGfhkvfBfi6I=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/charge/ev_verified_available.svg</key>
@@ -1623,7 +1766,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QSlZBhkQ1On/jXrk2iZyAMcxxDxdDMK5CIUbEzo/pw4=
+			bUv1FT5Gj9aJ/T/4//8+bofZiOhDXas8hkVX6zH0GJk=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/close.svg</key>
@@ -1829,6 +1972,13 @@
 			x2pTPIKVyXj9sEy/PmysyycH8COspDIWvQSD5XRmopU=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/common/drag_handle.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZtmCZFSzIwyjVeVDkgNdspTBKElO6B8Y5Pe1g+pMkmo=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/common/drivepay.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -1948,6 +2098,13 @@
 			iJ7b8lbe4FVWYAG9KTcLeCMexnfTFbcLmTzpNL/2CpI=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/common/no_chargers_found.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3jgXkFY4tdhG0HfWtpd10c7J/s8XI/25PmWakdKcTto=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/common/pending.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -1983,6 +2140,13 @@
 			YAMZgzT5C716FRwIFObEmV76nl3m2/DCOCJmrpt/3P8=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/common/refresh-circle.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8+TedlqPCEs06FBqSuuUbrmRAtpc3aRBzhBx6YuSHnE=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/common/right.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -2002,6 +2166,13 @@
 			<key>hash2</key>
 			<data>
 			dX4gr/USb9aTe/amdpHhezdwbi3LojCLaXbs8y2i3sE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/common/route_planner_indicator.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2kJQ3dV3erip1gyNfqH4I07WIx24/S87cDvzfpS8VUI=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/common/select.svg</key>
@@ -2205,6 +2376,272 @@
 			<key>hash2</key>
 			<data>
 			7z7JaqkXD3EsW+KhscLuAEro1T9fJ70nOvT8o7tJg9c=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/alert.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+WxWRdt9wNaOVoryFnrP9ovI5yWsG6vjd7NTt1Gc648=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/bharat-connect.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MIPd+I49ZPB/THQ3knsGzoBw/9yoptwG0xi3UJT792w=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/car.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NRMp53Y1ip9Qh3890wsftj1AA3b0Y68G2DSRqMG3z4o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/close.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CAbmI4ltn1yFiS9CkVH+Sg8yW94ol+C9auEdfOSitMk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/failed.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A0q/BYT2o7ONFpytgJ76w9A/dtI5pXCB74sCBFWYYtc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/fastag.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7z7JaqkXD3EsW+KhscLuAEro1T9fJ70nOvT8o7tJg9c=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/forward_icon.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qn0MRIBSrw8lgHTtHp7CwSDCRhNW5IPpDeIxqlnVn2c=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/icon_back.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D09H60lbn73YBdXXe1pSMf8Svjv7l7KppJth/pOk+so=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/json/location.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wVEStYi8Hn9tPyFGACdSMxO4bhFcT1OWMKhyATI26FI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/airtel.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/cca0SGskLCC8SupZ6x9TUmVaoWhNnxpJexAY2gOO6o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/amazon_dark.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VjOu4KLs7DZ70//oZASfNVywULne6EiQehuj785NE/M=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/amazon_light.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uaHiqB2leiZnsPaJ+n+w+Opmix9ASf63gH1GYhb5CMs=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/bhim.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wdqfYsxaNIQSV9jlvjbV7tGc2oOLx8ua4t3Bv4ie044=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/bhim_light_updated.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eoSycwKgmYY++8mUazLrdfOHFilCPQU0OmIwKmGsyZ0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/cred_dark.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lfs4DzjMyNILdYqBLfJ9KrToA+BPTDma+SPMJbgE/gA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/cred_light.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/n3xideyti7peoBAVGWI5Ty87Q47I56lstGSGmLJO5Y=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/freecharge.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S1zqxfak1me4QJKWIoN4Y+zI2aFM1BqDjhVMcKsfrMc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/gpayForDark.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J/b05XN5jJs3YVhpCFM/8kjrNL4yLjMp7lnvASDGvN4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/gpayforLight.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8BeL31DR3ct8S65HuA2bH4NRSiDXI1cwmvS2Kdx8NqU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/jupiter_updated.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cZ2tH2LD815tZIIVijosvEIwqbrNXgufjmQuokvWnUM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/mobikwik.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a4bXF82HmsKU9vy2cXfzcVzaDqlKjy665GZ3h2Hesh0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/paytm.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZJbOv4FCSV2o2SxREWMlOyhUS0yKWew7vFTYfssY3qA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/payzapp.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uCafd8+W30X6AOQ5m0fo1losFh2LEsFrTSnmufzJmV8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/phonepay.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kP/WEG9g31IuF5TLL/dhnLJGlcLV1mHaaHBgU6YBPE0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/samsungpay.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8FU/TfQBjFGHtTySIBxXNkwGqqqxQ5Pe5JCF0CDuWRE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/payments/supermoney.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jx+v6CA+HBYtjC7l5qEpnwYTTyCFIUyvaEtoVzw51fM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/refersh.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oWClEfx+vZt7iLj36hxIr7gFDI9qJ4dqGLr84+599KE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/right.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HerYNUoPMt/P+qf4JTQeqWal3zlJcL4q1ZgXNz131VI=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/search.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nHpkAO+ju95gDuSlOTQWKVWnIFPhnP7XKYgxIP8WFvA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/select.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SWcBAvAm+/uIIwNTMAelyE1BlYQo+1CmCD9s+G0ke8A=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/success.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fXnQmbYUWGPC4r5M824DMSK48ASA6mM02BW99gZSrug=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/support.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BgcOPGTShZPqrpZjDPvfjApXDQ36HCGxSB9YnhA0PL0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/toll.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nMI1d2PUjnDQdzkznkyk2zD/WwB0QClKAPx5OWJ2MRk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/toneTag.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0LHj8M5M/7YDlIAc0GBfN7LfX+eTGEIFyTQk7ktjlOU=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/tonetag_light.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2gKP1z7uSSv+U4pGaiwBFrEL2A3/LK2MEpee5Q7w5AY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/un_select.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dxFSuNYXyhPnNRli8J1LvMXtfRE7qVytbuXCL2G0B5U=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/upi.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SLbb24LSt0TR6mZKWHY6kmzsOpzyOc6ebIQAf5bm2Y8=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fastag/upifordark.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EWeWuk6VlT4iQMDpN5ZAs6lwrdaifq/mZdXzWSAlYWU=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/filter/available.svg</key>
@@ -2445,6 +2882,13 @@
 			nHpkAO+ju95gDuSlOTQWKVWnIFPhnP7XKYgxIP8WFvA=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/map/start_location.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			toeJtqp4c93hMc4+Lp0va93oVzeXVV8Yy6f+b+/p/BU=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/map/stations_indicator.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -2515,123 +2959,46 @@
 			+U8ZiA6jLEqi9Df1tTacqdAc/+hYWZv9l/Y5UdatGoE=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/airtel.svg</key>
+		<key>flutter_assets/assets/payments/tt_amazon_pay.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/cca0SGskLCC8SupZ6x9TUmVaoWhNnxpJexAY2gOO6o=
+			dFzSXn4AwcrEj+gEkYnsHQnJD8dcBx+dPE6cIt2UY54=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/amazon_dark.svg</key>
+		<key>flutter_assets/assets/payments/tt_bhim.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VjOu4KLs7DZ70//oZASfNVywULne6EiQehuj785NE/M=
+			/e3rZSRvzPcF/YBwCZFQH3p5O1uXpbFT7vmfPtY50o4=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/amazon_light.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uaHiqB2leiZnsPaJ+n+w+Opmix9ASf63gH1GYhb5CMs=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/bhim.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wdqfYsxaNIQSV9jlvjbV7tGc2oOLx8ua4t3Bv4ie044=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/bhim_light_updated.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eoSycwKgmYY++8mUazLrdfOHFilCPQU0OmIwKmGsyZ0=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/cred_dark.svg</key>
+		<key>flutter_assets/assets/payments/tt_cred.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Lfs4DzjMyNILdYqBLfJ9KrToA+BPTDma+SPMJbgE/gA=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/cred_light.svg</key>
+		<key>flutter_assets/assets/payments/tt_gpay.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/n3xideyti7peoBAVGWI5Ty87Q47I56lstGSGmLJO5Y=
+			QMC8rkUbL3ddJV3xeyGkiNYpTIX+Sct9MD0hF4iqT5k=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/freecharge.svg</key>
+		<key>flutter_assets/assets/payments/tt_paytm.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S1zqxfak1me4QJKWIoN4Y+zI2aFM1BqDjhVMcKsfrMc=
+			jRqo9Pdpax5m+4jSVBidcAZQ3tdCVXruG1RIBwT4P5g=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/gpayForDark.svg</key>
+		<key>flutter_assets/assets/payments/tt_phonepe.svg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/b05XN5jJs3YVhpCFM/8kjrNL4yLjMp7lnvASDGvN4=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/gpayforLight.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CR219p40g1Z17w0hIGR/A4A/YDpqDBguvGtLbaB/O8g=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/jupiter_updated.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cZ2tH2LD815tZIIVijosvEIwqbrNXgufjmQuokvWnUM=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/mobikwik.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			a4bXF82HmsKU9vy2cXfzcVzaDqlKjy665GZ3h2Hesh0=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/paytm.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZJbOv4FCSV2o2SxREWMlOyhUS0yKWew7vFTYfssY3qA=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/payzapp.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uCafd8+W30X6AOQ5m0fo1losFh2LEsFrTSnmufzJmV8=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/phonepay.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kP/WEG9g31IuF5TLL/dhnLJGlcLV1mHaaHBgU6YBPE0=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/samsungpay.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8FU/TfQBjFGHtTySIBxXNkwGqqqxQ5Pe5JCF0CDuWRE=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/payments/supermoney.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A2gwxho0+kb17HrIKXbDCr/BFtTb2FYkHIgZ9011luk=
+			rMQ4dhibtbH6SnEB8IvLTX1T8UFNoyErbUa+0MSu1bQ=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/refersh.svg</key>
@@ -2841,7 +3208,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UtUtIuAfNfFUGSb7oTDhA+5EsR/bnVRO2+Risvq9cRM=
+			7oqBuzazbOT7Bq6Mcc2MKFs0q3SNBam42PlkUu5a0EQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
