@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12" cy="12" r="9" stroke="white" stroke-width="2"/>
+<path d="M8 7H16" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M8 10H16" stroke="white" stroke-width="2" stroke-linejoin="bevel"/>
+<path d="M8 13V12L7.29289 13.7071L8 13ZM11 10C11 11.1046 10.1046 12 9 12V14C11.2091 14 13 12.2091 13 10H11ZM9 8C10.1046 8 11 8.89543 11 10H13C13 7.79086 11.2091 6 9 6V8ZM9 12H8V14H9V12ZM7.29289 13.7071L12.2929 18.7071L13.7071 17.2929L8.70711 12.2929L7.29289 13.7071Z" fill="white"/>
+</svg>
