@@ -23,7 +23,7 @@ let package = Package(
                 "image_picker_ios",
                 "webview_flutter_wkwebview",
                 "share_plus",
-                // "path_provider_foundation",
+                "path_provider_foundation",
                 "device_info_plus",
                 "mobile_scanner",
                 "vibration",
@@ -58,11 +58,11 @@ let package = Package(
              path:"./share_plus.xcframework"
                 
          ),
-        //  .binaryTarget(
-        //      name: "path_provider_foundation",
-        //      path:"./path_provider_foundation.xcframework"
+          .binaryTarget(
+              name: "path_provider_foundation",
+              path:"./path_provider_foundation.xcframework"
                 
-        //  ),
+          ),
          .binaryTarget(
              name: "image_picker_ios",
              path:"./image_picker_ios.xcframework"

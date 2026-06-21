@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		mz+x5/WTkNSkaGSm8wlO/M9eNls=
+		+t55b7QU6bHH0JNPtUu6xTg/Zw8=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		xkIisSSClQBRAVqutX5sr9xjWiA=
+		pz6gl+mG2+bOlJefPNgi5jOaetU=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>flutter_assets/assets/.DS_Store</key>
 		<data>
-		6UmoljmAdI9vVZX91Q3SmjcP+ds=
+		pbmNlvMWr8zdtBvNxFvaimYNllQ=
 		</data>
 		<key>flutter_assets/assets/alert.svg</key>
 		<data>
@@ -616,6 +616,10 @@
 		<data>
 		p6F6XvF6BL65wTWthESTEnpC/HM=
 		</data>
+		<key>flutter_assets/assets/common/tata_ev_black.svg</key>
+		<data>
+		kLoYhMdtXxX5gdCZfCOR4Y5iw4g=
+		</data>
 		<key>flutter_assets/assets/common/tata_ev_verified_mega_charger.svg</key>
 		<data>
 		xIFgOPO3B34HOAqa8KjaGm8AbGA=
@@ -695,6 +699,10 @@
 		<key>flutter_assets/assets/fastag.png</key>
 		<data>
 		w2vwm38l3NYHdS9UD4kRvUQG6TY=
+		</data>
+		<key>flutter_assets/assets/fastag/.DS_Store</key>
+		<data>
+		B6EK5SRR0J5FyYupHm6wc9ikdSE=
 		</data>
 		<key>flutter_assets/assets/fastag/alert.svg</key>
 		<data>
@@ -1040,6 +1048,10 @@
 		<data>
 		jbn7n+frOdbeby/2fReBm6oYLyg=
 		</data>
+		<key>flutter_assets/assets/payments/PAYMENT_WEBVIEW_BRIDGE.md</key>
+		<data>
+		/oFp1DY5z2rq4tlZhO2L/zDcOvc=
+		</data>
 		<key>flutter_assets/assets/payments/tt_amazon_pay.svg</key>
 		<data>
 		7+lSeAKVA+T1KsQBO6gwt4Bvj7I=
@@ -1199,14 +1211,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9xGJ6jKWuj9Qz6YXDUuS7Z21tyeXcgqMwMoAnXTAsUc=
+			U/et47pthQMIlEe1dqTsVROfVie0aQlxTAjhZnZcvag=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JWzsktyT7JeOvzipTHQpfblymGFUFe5+aiPWKq+SMng=
+			0r9b0PBuDOL88raFWVDQ0DC2TpPra7mTVarqGxWPoK8=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2238,6 +2250,13 @@
 			FfsVgwLIhUnkr9NnJk1ihxmPrjucOqzJkXjWIaY4Rdo=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/common/tata_ev_black.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6y9cfND1+Wc/DAutzPgSc6GT+9mV+dq6trvKtbrypFE=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/common/tata_ev_verified_mega_charger.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -2957,6 +2976,13 @@
 			<key>hash2</key>
 			<data>
 			+U8ZiA6jLEqi9Df1tTacqdAc/+hYWZv9l/Y5UdatGoE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/payments/PAYMENT_WEBVIEW_BRIDGE.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			etQSWPPAtspyVpJGjLDxQssy2Z1GAOTMkeHqRH/3ghY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/payments/tt_amazon_pay.svg</key>
