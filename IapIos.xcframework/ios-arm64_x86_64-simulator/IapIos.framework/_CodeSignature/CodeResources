@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		+t55b7QU6bHH0JNPtUu6xTg/Zw8=
+		LCN581fNIJuVXk5pf+ElEY98tX0=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		pz6gl+mG2+bOlJefPNgi5jOaetU=
+		dVFsq2NqvnkrppNP92I3sNWArY8=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -1048,10 +1048,6 @@
 		<data>
 		jbn7n+frOdbeby/2fReBm6oYLyg=
 		</data>
-		<key>flutter_assets/assets/payments/PAYMENT_WEBVIEW_BRIDGE.md</key>
-		<data>
-		/oFp1DY5z2rq4tlZhO2L/zDcOvc=
-		</data>
 		<key>flutter_assets/assets/payments/tt_amazon_pay.svg</key>
 		<data>
 		7+lSeAKVA+T1KsQBO6gwt4Bvj7I=
@@ -1202,7 +1198,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		UxfRqe0whOH3L8sB+AMMy0ts6LY=
+		I8KwRJ1L3R7+Dd6ocE8tzF1oiZg=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1223,14 +1219,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U/et47pthQMIlEe1dqTsVROfVie0aQlxTAjhZnZcvag=
+			eQ39nubPcZsyCJaS1CR4c6sa/KEl5FxtUOJkzFvQ/Gc=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0r9b0PBuDOL88raFWVDQ0DC2TpPra7mTVarqGxWPoK8=
+			j0fV+WWZ7lxeeqea9qomqOY2anWNYBgwGhSYGKYEIyc=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2990,13 +2986,6 @@
 			+U8ZiA6jLEqi9Df1tTacqdAc/+hYWZv9l/Y5UdatGoE=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/payments/PAYMENT_WEBVIEW_BRIDGE.md</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			etQSWPPAtspyVpJGjLDxQssy2Z1GAOTMkeHqRH/3ghY=
-			</data>
-		</dict>
 		<key>flutter_assets/assets/payments/tt_amazon_pay.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -3260,7 +3249,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ECcHUeNlo8J+O/w3kMnlwTMxY1JDN//xk3vk2xf2os=
+			5gW24DKhohp4H8My+phQPqiu85ixvWQzan4KdGX/6Bs=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
