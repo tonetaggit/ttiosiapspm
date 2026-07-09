@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		LCN581fNIJuVXk5pf+ElEY98tX0=
+		F+kFDxRz09I+X88TkP/uIcMZE2w=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		dVFsq2NqvnkrppNP92I3sNWArY8=
+		n6VwQPExmppHl0auZQopgh5gwR4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>flutter_assets/assets/.DS_Store</key>
 		<data>
-		pbmNlvMWr8zdtBvNxFvaimYNllQ=
+		iH42ssgwOCRieQRn2mclwR3msfU=
 		</data>
 		<key>flutter_assets/assets/alert.svg</key>
 		<data>
@@ -540,6 +540,10 @@
 		<data>
 		S+HujMs+yFB5eQdvP0fJ4nj5q1c=
 		</data>
+		<key>flutter_assets/assets/common/no_results_found.png</key>
+		<data>
+		4D1/urty+XUw/tZnllz8Agd2QP8=
+		</data>
 		<key>flutter_assets/assets/common/pending.svg</key>
 		<data>
 		rH7q3BsNuventFu5Yb9gIUvIKS8=
@@ -563,6 +567,14 @@
 		<key>flutter_assets/assets/common/refresh-circle.svg</key>
 		<data>
 		nH7UU21dsyz8HebChIYo0s65qtY=
+		</data>
+		<key>flutter_assets/assets/common/rfid_blocked.svg</key>
+		<data>
+		kcKkwFZyvXSIortfXPoml5m+kcU=
+		</data>
+		<key>flutter_assets/assets/common/rfid_deactivated.svg</key>
+		<data>
+		Q5C2B4TDyYzfBSltR2P5UMK3Ak8=
 		</data>
 		<key>flutter_assets/assets/common/right.svg</key>
 		<data>
@@ -1198,7 +1210,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		qUA1c9Gl0Sg4fYgWvIlsRG71oY8=
+		Gi3G8A/cYwsQrMiaiEW3XfjddCI=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1219,14 +1231,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eQ39nubPcZsyCJaS1CR4c6sa/KEl5FxtUOJkzFvQ/Gc=
+			BH2Vut1MQgWhg3GQ5FYkSg60H0OmHcAuvdlVVhYYcKo=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j0fV+WWZ7lxeeqea9qomqOY2anWNYBgwGhSYGKYEIyc=
+			tgVfOmK41rP7ONTGq8AZeSkalS5GatQaB9ThzgqUU/A=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2125,6 +2137,13 @@
 			3jgXkFY4tdhG0HfWtpd10c7J/s8XI/25PmWakdKcTto=
 			</data>
 		</dict>
+		<key>flutter_assets/assets/common/no_results_found.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pWb0OyopEVMNNNpJ4LBmdAv1NIp8IAYF2sVe9kMhYuc=
+			</data>
+		</dict>
 		<key>flutter_assets/assets/common/pending.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -2165,6 +2184,20 @@
 			<key>hash2</key>
 			<data>
 			8+TedlqPCEs06FBqSuuUbrmRAtpc3aRBzhBx6YuSHnE=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/common/rfid_blocked.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bBbuor4XmRd0ATFFi+k2o4U1Jysg2OpLLV+ioqGZfDk=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/common/rfid_deactivated.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HjeK5p+kauYHFtHe0wMtOeBXNi9Clexjcc11yzNiV2I=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/common/right.svg</key>
@@ -3249,7 +3282,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+3LZ+mQ+m024sci8LLSr0zo5Nb16NKDEGuZ8bnULblk=
+			HIQA/u4lKDAiN7bbh2q7kVSkPHgYfKzNpzSdotB7SKc=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
