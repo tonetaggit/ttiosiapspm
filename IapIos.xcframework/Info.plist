@@ -19,7 +19,7 @@
 			</array>
 			<key>SupportedPlatform</key>
 			<string>ios</string>
-		</dict>		
+		</dict>
 	</array>
 	<key>CFBundlePackageType</key>
 	<string>XFWK</string>
